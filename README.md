@@ -2,8 +2,4 @@
 
 Dosen : Subhan Nooriansyah
 
-Anggota : Novita 
-          Dyah
-          Ifa
-          Rikza
-          Kevin
+Anggota : Novita, Dyah, Ifa, Rikza, Kevin
